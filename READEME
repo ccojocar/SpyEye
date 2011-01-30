@@ -1,0 +1,5 @@
+This application detects and tracks the face feature in real time. The face 
+detection algorithm uses the Support Vector Machine(SVM) for pattern recognition.
+
+The Java Multimedia Framework (JMF 2.1) has to be installed in order to get it 
+running.
